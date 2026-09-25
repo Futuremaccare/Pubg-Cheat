@@ -79,9 +79,6 @@
 
 **4.** launch PUBG, enter a match, press `INSERT` or `DELETE`
 
-> 📘 detailed guide → [docs/INSTALL.md](docs/INSTALL.md)
-
-
 
 ## ▸ faq
 
