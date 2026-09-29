@@ -2,7 +2,7 @@
 
 # Pubg Cheat
 
-> **Modular instrumentation framework for studying real-time memory behavior in PUBG: BATTLEGROUNDS.**
+> **Modular instrumentation framework for studying real-time memory behavior in PUBG: BATTLEGROUNDS**
 
 <br/>
 
