@@ -1,0 +1,25 @@
+name: Auto Activity
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Подключение к репозиторию
+        uses: actions/checkout@v4
+
+      - name: Добавление записи в README
+        run: |
+          echo "<br>Обновлено: $(date)" >> README.md
+
+      - name: Сохранение и отправка изменений
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Ежедневный автоматический коммит" || exit 0
+          git push
