@@ -10,7 +10,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0a0a12?style=for-the-badge&logo=windows&logoColor=00fff7)](https://github.com/yourname/pubg-rak)
 [![Language](https://img.shields.io/badge/C%2B%2B-23-0a0a12?style=for-the-badge&logo=cplusplus&logoColor=b026ff)](https://github.com/yourname/pubg-rak)
 [![Graphics](https://img.shields.io/badge/Dear%20ImGui-DX11-0a0a12?style=for-the-badge&logoColor=ff2d95)](https://github.com/yourname/pubg-rak)
-[![Version](https://img.shields.io/badge/Version-3.1-0a0a12?style=for-the-badge&logoColor=00fff7)](https://github.com/yourname/pubg-rak/releases)
+[![Version](https://img.shields.io/badge/Version-3.4-0a0a12?style=for-the-badge&logoColor=00fff7)](https://github.com/yourname/pubg-rak/releases)
 [![License](https://img.shields.io/badge/License-MIT-0a0a12?style=for-the-badge&logoColor=b026ff)](LICENSE)
 
 <br/>
