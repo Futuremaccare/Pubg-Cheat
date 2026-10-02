@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pubg Cheat
+# Pubg Cheat.
 
 > **Modular instrumentation framework for studying real-time memory behavior in PUBG: BATTLEGROUNDS**
 > 
